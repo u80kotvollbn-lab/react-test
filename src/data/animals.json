@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Lion",
+    "continent": "Africa",
+    "averageSpeed": 80,
+    "weight": 190
+  },
+  {
+    "name": "Tiger",
+    "continent": "Asia",
+    "averageSpeed": 65,
+    "weight": 220
+  },
+  {
+    "name": "Wolf",
+    "continent": "Europe",
+    "averageSpeed": 50,
+    "weight": 40
+  },
+  {
+    "name": "Kangaroo",
+    "continent": "Australia",
+    "averageSpeed": 60,
+    "weight": 55
+  },
+  {
+    "name": "Bison",
+    "continent": "North America",
+    "averageSpeed": 50,
+    "weight": 600
+  }
+]
